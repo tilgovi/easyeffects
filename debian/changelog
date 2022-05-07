@@ -1,3 +1,10 @@
+easyeffects (6.2.5-1) unstable; urgency=low
+
+  * Version 6.2.5 upstream
+  * Changed name to easyeffects
+
+ -- Randall Leeds <randall@bleeds.info> Sat, 7 May 2022 16:30:27 -0800
+
 pulseeffects (4.8.2-1) unstable; urgency=low
 
   * Version 4.8.2 upstream (autobuild)
